@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Maryam</title>
+<style type="text/css">
+	
+body{
+
+background-image:url(mar.jpg);
+
+
+
+</style>
+
+</head>
+<body>
+
+<h1>
+     lcome my name is maryam  iam 27 yeard old 
+     I grduat from UQU spsalis CS
+
+</h1>
+<button>  welcome </button>
+
+
+</body>
+</html>
